@@ -1,6 +1,6 @@
 # Basketball-tournament CLI
 
-This CLI app simulates a basketball tournament where users can add teams, view participating teams, and simulate matches between teams. When running the app, the user will be prompted with options to add a team, view teams, simulate a match, or exit the application.
+This Ruby CLI app simulates a basketball tournament where users can add teams, view participating teams, and simulate matches between teams. When running the app, the user will be prompted with options to add a team, view teams, simulate a match, or exit the application.
 
 # Operation
 
